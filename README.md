@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hyperparameter Tuning
 
 **Completed by Mangaliso Makhoba.**
@@ -232,8 +231,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-=======
-# Parameter-Tuning
-This project is using the UCI Wine Quality Data Set to create a model that will predict the wine quality based on physicochemical tests, after tuning the hyperparameters.
->>>>>>> c3f7ee9923b723b654d94bdd4b6eec8df4f502f7
