@@ -19,7 +19,7 @@
 6. GridSearchCV
 
 ## Tools Used
-1. Ppython
+1. Python
 1. Scikit-learn
 2. Jupyter Notebook
 
