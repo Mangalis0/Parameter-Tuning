@@ -2,7 +2,7 @@
 
 **Completed by Mangaliso Makhoba.**
 
-**Overview:** This project is using the UCI Wine Quality Data Set to create a model that will predict the wine quality based on physicochemical tests, after tuning hyperparameters.
+**Overview:** This project is using the UCI Wine Quality Dataset to create a model that will predict the wine quality based on physicochemical tests, after tuning hyperparameters.
 
 **Problem Statement:** Evaluate Support Vector Classifier (SVC) model perfomance after finding the best hyperparamers of 'C' and 'gamma'.
 
@@ -19,6 +19,7 @@
 6. GridSearchCV
 
 ## Tools Used
+1. Ppython
 1. Scikit-learn
 2. Jupyter Notebook
 
