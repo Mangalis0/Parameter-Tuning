@@ -217,14 +217,11 @@ get_best_params(svc_tuned)
 
 
 ## Contributing Authors
-Authors = 
-**Mangaliso Makhoba, Explore Data Science Academy**
-contact = makhoba808@gmail.com
+**Authors:** Mangaliso Makhoba, Explore Data Science Academy
+**Contact:** makhoba808@gmail.com
 
 ## Project Continuity
 This is project is complete
-
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
