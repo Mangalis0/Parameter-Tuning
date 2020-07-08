@@ -218,6 +218,7 @@ get_best_params(svc_tuned)
 
 ## Contributing Authors
 **Authors:** Mangaliso Makhoba, Explore Data Science Academy
+
 **Contact:** makhoba808@gmail.com
 
 ## Project Continuity
